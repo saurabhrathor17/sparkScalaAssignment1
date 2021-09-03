@@ -1,0 +1,8 @@
+Transaction_ID,Product_ID,UserID,Price,Product_Description
+1882,101,1,20,"house prooduct"
+1996,102,5,23,"book"
+3435,103,1,45,"pen"
+2435,104,7,67,"book"
+3546,105,3,80,"bulb"
+9876,106,2,26,"toy"
+0980,101,1,50,"pen"
